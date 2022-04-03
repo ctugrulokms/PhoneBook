@@ -1,0 +1,15 @@
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/bin/Debug/net6.0/PhoneBook
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/bin/Debug/net6.0/PhoneBook.deps.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/bin/Debug/net6.0/PhoneBook.runtimeconfig.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/bin/Debug/net6.0/PhoneBook.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/bin/Debug/net6.0/ref/PhoneBook.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/bin/Debug/net6.0/PhoneBook.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/obj/Debug/net6.0/PhoneBook.csproj.AssemblyReference.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/obj/Debug/net6.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/obj/Debug/net6.0/PhoneBook.AssemblyInfoInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/obj/Debug/net6.0/PhoneBook.AssemblyInfo.cs
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/obj/Debug/net6.0/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/obj/Debug/net6.0/PhoneBook.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/obj/Debug/net6.0/ref/PhoneBook.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/obj/Debug/net6.0/PhoneBook.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/PhoneBook/obj/Debug/net6.0/PhoneBook.genruntimeconfig.cache
